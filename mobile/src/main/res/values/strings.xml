@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">QuienMeAyuda</string>
+    <string name="google_maps_key">
+        AIzaSyCuYHwH_F4qzlVLJYDJWIR5FZWS_eN5loA
+    </string>
+    <string-array name="listaSexo">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
 </resources>
