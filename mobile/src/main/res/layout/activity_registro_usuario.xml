@@ -138,13 +138,13 @@
                 android:text="Foto de perfil" />
 
             <ImageView
-                android:id="@+id/imgDniFrente"
+                android:id="@+id/imgFotoPerfil"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:srcCompat="@drawable/perfil" />
 
             <TextView
-                android:id="@+id/textView7"
+                android:id="@+id/tituloDniDorso"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Foto dorso DNI" />
@@ -156,19 +156,19 @@
                 app:srcCompat="@drawable/dnidorso" />
 
             <TextView
-                android:id="@+id/textView6"
+                android:id="@+id/tituloDniFrente"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Foto frente DNI" />
 
             <ImageView
-                android:id="@+id/imgPerfil"
+                android:id="@+id/imgDniFrente"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:srcCompat="@drawable/dni" />
 
             <TextView
-                android:id="@+id/textView8"
+                android:id="@+id/tituloExperiencia"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Experiencia: " />
